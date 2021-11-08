@@ -9,9 +9,9 @@ The goal is to make a replicable search for investors, and here we've got a samp
 
 ### June Results
 
-&nbsp;&nbsp; 1. Avg Temp:  74.9 degrees
-&nbsp;&nbsp; 2. Min Temp:  64.0 degrees
-&nbsp;&nbsp; 3. Max Temp:  85.0 degrees
+&nbsp;&nbsp; 1. Avg Temp:  74.9 degrees <br>
+&nbsp;&nbsp; 2. Min Temp:  64.0 degrees <br>
+&nbsp;&nbsp; 3. Max Temp:  85.0 degrees <br>
 
 *Data is taken across multiple weather stations*
 
