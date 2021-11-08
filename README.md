@@ -15,7 +15,7 @@ The goal is to make a replicable search for investors, and here we've got a samp
 
 *Data is taken across multiple weather stations*
 
-![Alt text]https://github.com/Goddard310/Surf_Analysis/blob/main/Surf%20June%20Temp.png
+![Alt text](https://github.com/Goddard310/Surf_Analysis/blob/main/Surf%20June%20Temp.png)
 
 ### December Results
 
@@ -25,7 +25,7 @@ The goal is to make a replicable search for investors, and here we've got a samp
 
 *Data is taken across multiple weather stations*
 
-![Alt text]https://github.com/Goddard310/Surf_Analysis/blob/main/Surf%20Dec%20Temp.png
+![Alt text](https://github.com/Goddard310/Surf_Analysis/blob/main/Surf%20Dec%20Temp.png)
 
 **Additional Analysis** <br>
 
