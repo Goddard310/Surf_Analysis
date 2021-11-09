@@ -1,5 +1,5 @@
 # Surf_Analysis
-&nbsp;&nbsp;See SurfsUp_Challenge.ipynb
+&nbsp;&nbsp;See *SurfsUp_Challenge.ipynb*
 
 ## Overview of Project
 Our project is to analyze weather patterns on Oahu to determine if a surf rental & ice cream shop would be a good fit considering both offerings are heavily weather-dependent.  
